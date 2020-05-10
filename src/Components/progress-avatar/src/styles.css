@@ -1,0 +1,13 @@
+.progress-avatar__wrapper {
+  position: relative;
+}
+
+.progress-avatar__image {
+  max-width: 100px;
+}
+
+.progress-avatar__halo {
+  position: absolute !important;  /*need this to overwrite default inline style*/
+  top: -10px;
+  left: -10px;
+}

@@ -1,0 +1,12 @@
+# dependencies
+/node_modules
+
+# production
+/dist
+
+# editor
+.idea/
+
+# misc
+.DS_Store
+.npmignore
