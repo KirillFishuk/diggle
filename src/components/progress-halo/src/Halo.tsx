@@ -5,8 +5,8 @@ import { HaloProps } from './types';
 
 const StyledHalo = styled.div<HaloProps>`
   position: relative;
-  height: ${({radius = 30}) => radius * 2}px;
-  width: ${({radius = 30}) => radius * 2}px;
+  height: ${({ radius = 30 }) => radius * 2}px;
+  width: ${({ radius = 30 }) => radius * 2}px;
   cursor: pointer;
   circle {
     transition: stroke-dashoffset 0.35s;
