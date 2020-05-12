@@ -2,7 +2,7 @@
 :dizzy: React component, for adding dynamic progress ring around other components, for example around user avatar.
 
 ### Examples
-https://kirillfishuk.de/posts/progress-halo
+https://galpsi.netlify.app/posts/progress-halo
  
 ### Install
 If you're using npm:

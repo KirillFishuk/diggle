@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KirillFishuk/progress-halo.git"
+    "url": "git+https://github.com/KirillFishuk/diggle.git"
   },
   "author": "KirillFishuk",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KirillFishuk/progress-halo/issues"
+    "url": "https://github.com/KirillFishuk/diggle/issues"
   },
-  "homepage": "https://github.com/KirillFishuk/progress-halo#readme",
+  "homepage": "https://galpsi.netlify.app/posts/progress-halo",
   "keywords": [
     "progess",
     "avatar",
