@@ -1,1 +1,1 @@
-## User interface component kit
+## UI component kit
